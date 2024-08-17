@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { 
   Container, 
   Grid, 
@@ -9,7 +9,6 @@ import {
   IconButton,
   Snackbar,
   Checkbox,
-  FormControlLabel
 } from "@mui/material";
 import AddIcon from '@mui/icons-material/Add';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
